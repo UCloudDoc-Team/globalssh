@@ -27,7 +27,7 @@
 
 ## 如何使用
 
-成功创建后，会生成一个ipssh.net后缀域名  
+创建成功后，会生成一个ipssh.net后缀域名  
 注：ipssh.net为GlobalSSH产品的正式域名，部分ucloudgda.com结尾的加速域名仍可使用  
 
 > 禁止加速域名直接提供HTTP/HTTPS访问。
