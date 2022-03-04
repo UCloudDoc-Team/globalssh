@@ -28,7 +28,6 @@
 ## 如何使用
 
 成功创建后，会生成一个ipssh.net后缀域名  
-![](/images/gs_20180823151312.png)  
 注：ipssh.net为GlobalSSH产品的正式域名，部分ucloudgda.com结尾的加速域名仍可使用  
 
 > 禁止加速域名直接提供HTTP/HTTPS访问。
@@ -36,10 +35,6 @@
 **Linux系统**  
 
 在远程登录工具中，使用**加速域名**进行登录。
-
-图形界面连接示意：
-
-![](images/globalssh_use.png)
 
 命令行登录示意（CentOS）:  
 ```
